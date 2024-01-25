@@ -1,0 +1,97 @@
+.tat{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    /*background-size: cover;*/
+    height: 100vh;
+    color: #ffffff;
+}
+
+.heading{
+    background-color: #323f4b;
+    text-align: center;
+    padding: 16px
+}
+
+.para1{
+    background-color: #47a3f3;
+    text-align: end;
+    font-size: larger;
+    padding: 18px;
+    border-top-right-radius:10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+.para2{
+    background-color: #52606d;
+    text-align:start ;
+    font-size: larger;
+    padding: 18px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.para3{
+    background-color: #47a3f3;
+    text-align: end;
+    font-size: larger;
+    padding: 18px;;
+    border-top-right-radius:10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+.para4{
+    background-color: #52606d;
+    text-align: start;
+    font-size: larger;
+    padding: 18px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-right: 50px;
+    margin-left: 10px;
+
+}
+
+.para5{
+    background-color: #47a3f3;
+    text-align: end;
+    font-size: larger;
+    padding: 18px;
+    border-top-right-radius:10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+.para6{
+    background-color: #52606d;
+    text-align: start;
+    font-size: larger;
+    padding: 18px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.para7{
+    background-color: #47a3f3;
+    text-align: end;
+    font-size: larger;
+    padding: 18px;
+    border-top-right-radius:10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
